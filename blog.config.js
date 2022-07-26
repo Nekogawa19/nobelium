@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '凱風快晴 Gaifū kaisei',
+  title: 'Li Xiaolong - リ　キュウリュウ',
   author: 'LI XIAOLONG',
   email: 'devops@lixiaolong.tech',
   link: 'https://www.lixiaolong.tech',
-  description: '一個藝術家、開發者與學者。An Artist, developer and scholar.',
+  description: 'An Artist, developer and researcher.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
