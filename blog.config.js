@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Li Xiaolong - リ　キュウリュウ',
+  title: 'Li Dev Tips',
   author: 'LI XIAOLONG',
   email: 'devops@lixiaolong.tech',
   link: 'https://www.lixiaolong.tech',
